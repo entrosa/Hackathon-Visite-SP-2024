@@ -1,15 +1,15 @@
 # Hackathon-Visite-SP-2024
-
-hackathon_visite_SP_24
-Projeto para o Hackathon Visite São Paulo 2024
-
 https://visitesaopaulo.com/hackathon24/
+Projeto para o Hackathon Visite São Paulo 2024: 
 
-Passaporte Visite São Paulo
+    Passaporte Visite São Paulo
+
 
 Equipe ACB²: Carol André Barbara Bruno
 
 Vídeo da Demo: https://www.youtube.com/watch?v=y7C6ycC-zrc
+
+Protótipo do Figma: https://www.figma.com/proto/f6QqEOHUwbsWQvT8VssFq5/WebPages?node-id=1-3&node-type=canvas&t=Vg4otTU9sujJO425-1&scaling=contain&content-scaling=fixed&page-id=0%3A1
 
 Link da Pesquisa realizada: " Ajude nosso grupo do Hackathon Visite São Paulo respondendo 6 perguntas nesse formulário!
 Queremos sua opinião pessoal sobre Turismo e Tecnologia! Aviso: Sem nenhuma pergunta pessoal sobre e-mail, nome ou telefone
@@ -24,10 +24,13 @@ Documento PDF do Turismo de Base Comunitária Ministério do Turismo. Turismo de
 
 Artigo Passaporte Pernambuco (Translado Recife) Secretaria de Turismo de PE cria o Passaporte Pernambuco. Translado Recife. https://transladorecife.com.br/secretaria-de-turismo-de-pe-cria-o-passaporte-pernambuco/
 
-Site Ecoguias Ecoguias. Portal de ecoturismo e turismo sustentável no Brasil. https://www.ecoguias.app.br/
+Site Ecoguias Ecoguias. Portal de ecoturismo e turismo sustentável no Brasil.
+https://www.ecoguias.app.br/
 
 Artigo da National Geographic sobre Turismo Regenerativo National Geographic Brasil. O que é turismo regenerativo e quais são seus benefícios?. https://www.nationalgeographicbrasil.com/viagem/2022/09/o-que-e-turismo-regenerativo-e-quais-sao-seus-beneficios
 
-Guia Turismo SP Governo do Estado de São Paulo. Guia de Turismo de São Paulo. https://www.turismo.sp.gov.br/guias
+Guia Turismo SP Governo do Estado de São Paulo. Guia de Turismo de São Paulo. 
+https://www.turismo.sp.gov.br/guias
 
-Experiências Airbnb Airbnb. Experiências em diferentes locais. https://www.airbnb.com.br/s/experiences
+Experiências Airbnb Airbnb. Experiências em diferentes locais. 
+https://www.airbnb.com.br/s/experiences
