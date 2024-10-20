@@ -2,7 +2,8 @@
 https://visitesaopaulo.com/hackathon24/
 Projeto para o Hackathon Visite São Paulo 2024: 
 
-    Passaporte Visite São Paulo
+
+Passaporte Visite São Paulo
 
 
 Equipe ACB²: Carol André Barbara Bruno
