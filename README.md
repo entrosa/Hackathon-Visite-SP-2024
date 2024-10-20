@@ -17,16 +17,17 @@ https://forms.gle/93cKySGb7DaM6Pyp7 "
 
 Resumo das Respostas: https://docs.google.com/forms/d/1qxGQWOSR-aAXy6WIKjIOEg1_zJ9QjjDtX_jaKGZjW2A/viewanalytics
 
-Bibliografia
 
-Documento PDF do Turismo de Base Comunitária Ministério do Turismo. Turismo de Base Comunitária: diversidade de olhares e experiências brasileiras. Recuperado de https://www.gov.br/turismo/pt-br/centrais-de-conteudo-/publicacoes/segmentacao-do-turismo/turismo-de-base-comunitaria-diversidade-de-olhares-e-experiencias-brasileiras.pdf
+Referêcias:
 
-Artigo Passaporte Pernambuco (Translado Recife) Secretaria de Turismo de PE cria o Passaporte Pernambuco. Translado Recife. Recuperado de https://transladorecife.com.br/secretaria-de-turismo-de-pe-cria-o-passaporte-pernambuco/
+Documento PDF do Turismo de Base Comunitária Ministério do Turismo. Turismo de Base Comunitária: diversidade de olhares e experiências brasileiras. https://www.gov.br/turismo/pt-br/centrais-de-conteudo-/publicacoes/segmentacao-do-turismo/turismo-de-base-comunitaria-diversidade-de-olhares-e-experiencias-brasileiras.pdf
 
-Site Ecoguias Ecoguias. Portal de ecoturismo e turismo sustentável no Brasil. Recuperado de https://www.ecoguias.app.br/
+Artigo Passaporte Pernambuco (Translado Recife) Secretaria de Turismo de PE cria o Passaporte Pernambuco. Translado Recife. https://transladorecife.com.br/secretaria-de-turismo-de-pe-cria-o-passaporte-pernambuco/
 
-Artigo da National Geographic sobre Turismo Regenerativo National Geographic Brasil. O que é turismo regenerativo e quais são seus benefícios?. Recuperado de https://www.nationalgeographicbrasil.com/viagem/2022/09/o-que-e-turismo-regenerativo-e-quais-sao-seus-beneficios
+Site Ecoguias Ecoguias. Portal de ecoturismo e turismo sustentável no Brasil. https://www.ecoguias.app.br/
 
-Guia Turismo SP Governo do Estado de São Paulo. Guia de Turismo de São Paulo. Recuperado de https://www.turismo.sp.gov.br/guias
+Artigo da National Geographic sobre Turismo Regenerativo National Geographic Brasil. O que é turismo regenerativo e quais são seus benefícios?. https://www.nationalgeographicbrasil.com/viagem/2022/09/o-que-e-turismo-regenerativo-e-quais-sao-seus-beneficios
 
-Experiências Airbnb Airbnb. Experiências em diferentes locais. Recuperado de https://www.airbnb.com.br/s/experiences
+Guia Turismo SP Governo do Estado de São Paulo. Guia de Turismo de São Paulo. https://www.turismo.sp.gov.br/guias
+
+Experiências Airbnb Airbnb. Experiências em diferentes locais. https://www.airbnb.com.br/s/experiences
