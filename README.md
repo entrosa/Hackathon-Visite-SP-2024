@@ -1,11 +1,12 @@
 # Hackathon-Visite-SP-2024
 
-Projeto para o Hackathon Visite São Paulo 2024
+Submissão para o Hackathon Visite São Paulo 2024
 https://visitesaopaulo.com/hackathon24/
 
 
 
 Equipe ACB²: Carol André Barbara Bruno
+
 Projeto: PASSAPORTE VISITE SÃO PAULO
 
 Vídeo da Demo: https://www.youtube.com/watch?v=y7C6ycC-zrc
